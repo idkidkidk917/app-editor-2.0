@@ -55,5 +55,4 @@ jobs:
           name: CART3R-ULTRA-APK
           path: "source/**/app/build/outputs/apk/debug/*.apk"
           if-no-files-found: error
-          reten
-          tion-days: 7
+          retention-days: 7
